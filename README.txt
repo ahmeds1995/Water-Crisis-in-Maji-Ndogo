@@ -11,6 +11,3 @@ The most important of these points are:
 There is also a detailed report for each province showing the province’s population, the improvements required for each water source, as well as the budget needed to complete these improvements.
 
 I enjoyed working on this project, which gave me great experience in analyzing data, paying attention to details, understanding the problem, and focusing on finding a solution to it.
-
-Feel free to download the project files from this link: https://github.com/ahmeds1995/pizza_sales
-and I would be appreciate to recieve your constructive feedbacks.
