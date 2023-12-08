@@ -1,8 +1,8 @@
 Water Crisis in Maji Ndogo Report:
 
-I am pleased to present to you this comprehensive report on the water crisis in Magi Ndogo, through which I answered some questions that contribute to solving the problem.
+I am pleased to present to you this comprehensive report on the water crisis in Maji Ndogo, through which I answered some questions that contribute to solving the problem.
 
-The report outlines the main points of the survey carried out by the team, giving a general understanding of the water problem in Magi Ndogo.
+The report outlines the main points of the survey carried out by the team, giving a general understanding of the water problem in Maji Ndogo.
 The most important of these points are:
 - Only, approximately, 34% of the population of Maji Ndogo have access to basic water service.
 - While 66% of the population finds difficulties in accessing basic water service.
